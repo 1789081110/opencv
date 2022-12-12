@@ -1,17 +1,10 @@
 #!/usr/bin/env python
 # coding: utf-8
-
 # In[1]:
-
-
 import pytesseract
 
-
 # In[22]:
-
-
-pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
-
+pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe
 
 # In[3]:
 
