@@ -1,7 +1,7 @@
 import pyttsx3
 import pytesseract
 import cv2
-img = cv2.imread("C:/Users/vknsr/Downloads/ML/Lab/download.jpg")
+img = cv2.imread("/download.jpg")
 cv2.imshow("hi",img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
