@@ -11,4 +11,5 @@ cv2.waitKey(0) #press any key to close the image
 
 cv2.destroyAllWindows()
 
+
 cv2.imwrite('img_1.jpg', img) #creating a new image file with the exiting one
